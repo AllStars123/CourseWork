@@ -1,4 +1,4 @@
-package spbstu.course.six.domain;
+package spbstu.course.six.table;
 
 import lombok.Data;
 import org.hibernate.annotations.OnDelete;

@@ -4,7 +4,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.beans.BeanUtils;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
-import spbstu.course.six.domain.Diagnos;
+import spbstu.course.six.table.Diagnos;
 import spbstu.course.six.repository.DiagnosRepository;
 
 import java.util.List;

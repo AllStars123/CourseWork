@@ -4,7 +4,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.beans.BeanUtils;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
-import spbstu.course.six.domain.Person;
+import spbstu.course.six.table.Person;
 import spbstu.course.six.repository.PersonRepositroy;
 
 import java.util.List;
